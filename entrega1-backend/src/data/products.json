@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Mouse Gamer RGB",
+    "description": "Sensor óptico de alta precisión, 6 botones",
+    "code": "MOU456",
+    "price": 12500,
+    "status": true,
+    "stock": 50,
+    "category": "Periféricos",
+    "thumbnails": [
+      "img/mouse1.png",
+      "img/mouse2.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Teclado Mecánico",
+    "description": "Switches rojos, retroiluminado",
+    "code": "KEY789",
+    "price": 22900,
+    "status": true,
+    "stock": 18,
+    "category": "Periféricos",
+    "thumbnails": [
+      "img/teclado1.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Monitor 24'' Full HD",
+    "description": "1920x1080, 75Hz, HDMI y VGA",
+    "code": "MON321",
+    "price": 83500,
+    "status": true,
+    "stock": 20,
+    "category": "Pantallas",
+    "thumbnails": [
+      "img/monitor1.png"
+    ]
+  }
+]
