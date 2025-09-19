@@ -87,4 +87,4 @@ src/
 
 ## 🔗 Autor
 
-Will Descarrega – [@tu-usuario](https://github.com/Will-lab-code)
+Will Descarrega – [@Will-lab-code](https://github.com/Will-lab-code)
